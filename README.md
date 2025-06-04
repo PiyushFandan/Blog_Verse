@@ -9,9 +9,9 @@
 
 ## 🌟 Overview
 
-Blog Verse is a comprehensive blogging platform that combines modern web technologies to deliver an exceptional content creation experience. Built with React's component-based architecture and powered by Appwrite's robust backend services, this platform offers writers and content creators a seamless environment for publishing, managing, and sharing their stories.
+ThoughtSpace is a comprehensive blogging platform that combines modern web technologies to deliver an exceptional content creation experience. Built with React's component-based architecture and powered by Appwrite's robust backend services, this platform offers writers and content creators a seamless environment for publishing, managing, and sharing their stories.
 
-Whether you're a solo blogger, content creator, or managing a team of writers, Blog Verse provides all the essential tools needed for effective content management and distribution in today's digital landscape.
+Whether you're a solo blogger, content creator, or managing a team of writers, ThoughtSpace provides all the essential tools needed for effective content management and distribution in today's digital landscape.
 
 ## ✨ Key Features
 
@@ -56,7 +56,7 @@ Whether you're a solo blogger, content creator, or managing a team of writers, B
 ## 📁 Project Architecture
 
 ```
-blog-verse/
+ThoughtSpace/
 ├── 📁 public/                 # Static assets and favicon
 ├── 📁 src/
 │   ├── 📁 components/         # Reusable UI components
