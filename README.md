@@ -1,4 +1,4 @@
-# Blog Verse 📝
+# ThoughtSpace 📝
 
 > A modern, feature-rich blogging platform crafted with React and Appwrite
 
